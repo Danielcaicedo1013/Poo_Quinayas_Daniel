@@ -8,7 +8,7 @@ resto lo pagará solicitando un crédito al fabricante.
 invertir de su propio dinero un 70% y el restante 30% lo pagará solicitando crédito al
 fabricante.
 • El fabricante cobra por concepto de intereses un 20% sobre la cantidad que se le pague a
-crédito./* */
+crédito../* */
 
 
 //Daniel Esteban Quinayas Caicedo - 20242227875
