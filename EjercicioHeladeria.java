@@ -70,7 +70,7 @@ import java.util.Scanner;
                         default:
                             System.out.println("Error en el sabor ingresado");
                     }
-                    System.out.print("Deseas incluir otro sabor: (SI/NO)");
+                    System.out.print("Desea incluir otro sabor: (SI/NO)");
                     String rta = sc.nextLine();
                     
                     if (rta.toUpperCase().equals("SI"))
@@ -80,7 +80,7 @@ import java.util.Scanner;
     
                 }
     
-                System.out.print("Deseas incluir otra factura: (SI/NO)");
+                System.out.print("Desea incluir otra factura: (SI/NO)");
                 String rta = sc.nextLine();
                 // if(rta=="SI")
                 if (rta.toUpperCase().equals("SI")){
@@ -98,6 +98,14 @@ import java.util.Scanner;
             System.out.println("Fresa       "+acumFresa+"       "+(acumFresa*2000));
             System.out.println("Crema       "+acumCrema+"       "+(acumCrema*3000));
             System.out.println("Venta Total: "+((acumLimon*2500)+(acumNuez*2800)+(acumLulo*2600)+(acumFresa*2000)+(acumCrema*3000)));
+           
+             
+    
+        
+    
+    }
+
+}
            
              
     
